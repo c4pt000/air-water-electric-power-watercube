@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=Gr1_Hzl1F-w
 
 air input into Watercube system .... watercube system produce 5 gallons output every hour and pushes the 5 gallons into a 40 gallon liquid water tank
 
-a water pump pushed 5 gallons of water into a 5 gallon liquid tank with two electric terminals submerged inside of the 5 gallon tank to produce oxygen and hydrogen gas output
+a water pump pushs 5 gallons of water into a 5 gallon liquid tank with two electric terminals submerged inside of the 5 gallon tank to produce oxygen and hydrogen gas output
 
 the hydrogen gas and water gas output is collected into a pressurized gaseous tank 
 
