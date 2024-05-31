@@ -31,3 +31,15 @@ https://www.youtube.com/watch?v=Gr1_Hzl1F-w
 
 
 ![s1](https://github.com/c4pt000/air-water-electric-power-watercube/releases/download/fenergy/air-water-electric.png)
+
+
+air input into Watercube system .... watercube system produce 5 gallons output every hour and pushes the 5 gallons into a 40 gallon liquid water tank
+
+a water pump pushed 5 gallons of water into a 5 gallon liquid tank with two electric terminals submerged inside of the 5 gallon tank to produce oxygen and hydrogen gas output
+
+the hydrogen gas and water gas output is collected into a pressurized gaseous tank 
+
+the gaseous tank holding oxygen and hydrogen (as a split seperate chamber of raw oxygen only and raw hydrogen only) is then fed though a hose to burn and combust inside of an electric generator
+
+which powers the electric generator to produce energy to power the vehicle from air and water
+
