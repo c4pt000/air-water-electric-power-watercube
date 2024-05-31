@@ -28,3 +28,6 @@ to power an electrical generator to generate electricity for a car, or otherwise
 
 review of electrolysis O2 gas to combust from water
 https://www.youtube.com/watch?v=Gr1_Hzl1F-w
+
+
+![s1](https://github.com/c4pt000/air-water-electric-power-watercube/releases/download/fenergy/air-water-electric.png)
