@@ -14,6 +14,8 @@ water goes into a 40 gal fuel tank
 the water is fed through a pump into a 5 gallon mini-tank
 
 the mini tank has a 120v for the negative anode to produce oxygen gas (and the positive cathode produces hydrogen gas)
+https://github.com/c4pt000/air-water-electric-power-watercube/blob/main/step-up.md
+
 
 and the 120v electrical terminals are submerged inside of the 5 gallon tank with two gas outputs to sepeate the combustibile gas output from the 5 gallon tank
 
