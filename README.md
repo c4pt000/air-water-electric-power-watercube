@@ -4,7 +4,7 @@
 https://github.com/c4pt000/electric-car-charging-redesign
 
 
-watercube makes water for the AIR 5 gallons every hour (120 gallons every 24 hours)
+watercube makes water from the AIR 5 gallons every hour (120 gallons every 24 hours)
 
 https://genesissystems.com/wc-100-watercube/
 
