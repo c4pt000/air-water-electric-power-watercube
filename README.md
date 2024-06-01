@@ -50,3 +50,12 @@ the gaseous tank holding oxygen and hydrogen (as a split seperate chamber of raw
 
 which powers the electric generator to produce energy to power the vehicle from air and water
 
+
+
+
+
+# or using my concept idea from 3 years ago
+
+https://github.com/c4pt000/electric-car-charging-redesign
+
+https://github.com/c4pt000/electric-car-charging-redesign/blob/main/05-31-2024-updated-diagram.md
