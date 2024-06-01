@@ -59,3 +59,5 @@ which powers the electric generator to produce energy to power the vehicle from 
 https://github.com/c4pt000/electric-car-charging-redesign
 
 https://github.com/c4pt000/electric-car-charging-redesign/blob/main/05-31-2024-updated-diagram.md
+
+![s1](https://raw.githubusercontent.com/c4pt000/air-water-electric-power-watercube/main/air-to-oxygen-burn-electric.png)
